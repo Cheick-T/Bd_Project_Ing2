@@ -1,0 +1,4 @@
+Les projets qui nous sont attribué : 
+-  Projet 5: Gestion du personnel
+- Projet 9: Gestion de passation des charges
+- Projet 11: suivi des sources et origines des armes de guerres
